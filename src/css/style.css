@@ -1,0 +1,149 @@
+.ruta{
+    color: #000;
+  }
+  .ruta:link{
+    text-decoration: none;
+  }
+  .ruta:hover {
+    color: #1717FF;
+    cursor: pointer;
+  }
+  
+.loader {
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+  z-index: 9999;
+  background: url('../assets/status.gif') 50% 50% no-repeat rgb(249,249,249);
+  opacity: .8;
+}
+.fondo {
+  background-color: hwb(180 70% 10%);
+}
+
+h2 {
+  clear: both;
+}
+img.izquierda {
+  float: left;
+  margin-right: 20px;
+}
+
+img.derecha {
+  float: right;
+  margin-left: 20px;
+}
+.textarea { width: 1000px; height: 200px; float: center; }
+.resizedTextbox {width: 100px; height: 20px}
+
+.desplazadoimg {
+  background-color: white;
+  position: relative;
+  left: 155px;
+  width: 650px;
+  height: 450px;
+  bottom: 150px;
+
+}
+
+.portimg {
+  display:block;
+margin:auto;
+  width: 1050px;
+  height: 350px;
+}
+
+.textomapadescrip{
+  width: 200px; height: 400px;
+  float:right;
+  background-color: white;
+  text-align:center;
+  position: relative;
+  left: -250px;
+  bottom: 100px;
+}
+.portdiv{  position: relative;
+  bottom: 190px;}
+.container1{
+      width: 900px;
+      text-align:center;
+      position: relative;
+      left: 190px;
+  }
+
+
+  .mantenimiento{
+    
+  position: relative;
+  bottom: 8px;
+  left: 400px;
+  width: 650px;
+  height: 450px;
+  float: center;
+  }
+
+
+  
+
+
+  hr {
+    clear: both;
+  }
+  
+  .image1 {
+    float: left;
+  }
+
+  .mision{
+    width:15%;
+  }
+
+  .vision{
+    width:11%;
+    float: right;
+  }
+
+  
+  .text_p{
+    text-align: justify;
+    font-size: 110%;
+    color: rgb(78, 80, 86);
+  }
+
+  .subtitle1{
+    font-size: 160%;
+    text-align: center;
+    color: rgb(100, 16, 128);
+  }
+
+  .subtitle2{
+    font-size: 140%;
+    color: rgb(10, 47, 158);
+  }
+
+  .nos_1{
+    display: block;
+    margin: auto;
+    
+  width: 1345px;
+  height: 650px;
+  }
+
+
+  .nos_2{
+    display: block;
+    margin: auto;
+    
+  width: 1345px;
+  height: 650px;
+  }
+
+  .nos_3{
+    display: block;
+    margin: auto;
+    
+  width: 1345px;
+  height: 650px;
+  }
